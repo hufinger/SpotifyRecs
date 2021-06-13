@@ -1,0 +1,8 @@
+GOALS:
+    Pull my main playlist off of spotify
+    Pull all country music off spotify
+    Create recommendation of ~20 songs a week
+
+6/13:
+    Need to pull the playlist off spotify today
+    tomorrow need to pull other music from country artists
